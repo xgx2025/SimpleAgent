@@ -4,4 +4,4 @@
 
 ## 项目结构
 ![项目结构示意图](https://github.com/user-attachments/assets/52587d02-b3a7-4172-95cc-93f0e773170a)  
-（图片尺寸：宽200px × 高323px，展示项目文件及目录组织架构）
+
